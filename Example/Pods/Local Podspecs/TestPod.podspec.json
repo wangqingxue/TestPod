@@ -1,0 +1,22 @@
+{
+  "name": "TestPod",
+  "version": "0.1.0",
+  "summary": "short description for TestPod",
+  "description": "testABC 作为测试的一个库试一试怎么进行推送来完成 增加点长度来看看",
+  "homepage": "https://github.com/wangqingxue/TestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "173636717@qq.com": "qingxue.wang@yintech.cn"
+  },
+  "source": {
+    "git": "https://github.com/173636717@qq.com/TestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPod/Classes/**/*"
+}
